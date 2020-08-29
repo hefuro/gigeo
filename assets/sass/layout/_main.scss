@@ -1,0 +1,47 @@
+.user{
+	display:flex;
+	display-direction:row;
+	flex-wrap:nowrap;
+}
+.usuario-image{
+	border-radius:50%;
+}
+.usuario-info h3{
+	font-size:1.1em;
+
+}
+.usuario-info p{
+	font-size:0.7em;
+}
+
+.botonera{
+	display:flex;
+	display-direction:row;
+	flerx-wrap:nowrap;
+	justify-content:flex-end;
+	padding-right: 4em;	
+}
+.boton-1{
+	background-color:#92dce5;
+	width:100px;
+	height:40px;
+}
+.boton-2{
+	background-color:#ef6461;
+	width:100px;
+	height:40px;
+}
+.botonera p{
+	margin-top:10px;
+	color:white;
+	font-family: 'Poppins', sans-serif;
+	font-size:1em;
+	font-weight:200;
+	text-decoration:none;
+}
+
+
+.linea {
+  	border-bottom: 1px solid #d8d8d8;
+  	margin-top:2em;
+  }

@@ -1,0 +1,30 @@
+.article-titulo{
+	font-family: 'Poppins', sans-serif;
+	font-size: 1.5em;
+	font-weight:500;
+	
+
+}
+.container-list{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:warp;
+	justify-content:space-evenly;
+	align-items:c enbter;
+}
+.list-image-size{
+	max-width: 280px;;
+  	height: auto;
+  	padding-left:10px;
+  	padding-right:10px;
+}
+.list-image-title{
+	font-size:1.1em;
+	margin-left:10px;
+}
+.list-image-description{
+	font-size:0.9em;
+	margin-left:10px;
+	color:#737373;
+}
+
